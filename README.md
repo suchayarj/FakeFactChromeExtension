@@ -4,8 +4,8 @@
 - After users download the 'Fake or Fact' Google Chrome Extension, the extension will work automatically whenever they access Sephora.com. When they access a product link, they will see a badge right next to each review indicating if the review is *Fake*, *Border Line Fake*, or *Authentic*.
 
 Please see an example of the user interface below:
- <p align="center">
+ <p>
     <img src="images/Legends.png" width=180>
-    <img src="images/GOOGLE CHROME.png" width = 800>
+    <img src="images/GOOGLE CHROME.png" width = 1000>
     </p>
 
