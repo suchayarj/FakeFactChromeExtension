@@ -1,0 +1,27 @@
+{
+  "name": "Fake or Fact",
+  "version": "1.0",
+  "description": "Help users identify authentic reviews on Sephora",
+  "permissions": ["activeTab","declarativeContent", "storage"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "options_page":"options.html",
+  "page_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/LOGO2.png",
+      "32": "images/LOGO2.png",
+      "48": "images/LOGO2.png",
+      "128": "images/LOGO2.png"
+    }
+  },
+  "icons": {
+    "16": "images/LOGO2.png",
+    "32": "images/LOGO2.png",
+    "48": "images/LOGO2.png",
+    "128": "images/LOGO2.png"
+  },
+  "manifest_version": 2
+}
