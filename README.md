@@ -5,7 +5,7 @@
 
 Please see an example of the user interface below:
  <p>
-    <img src="images/Legends.png" width= 100>
-    <img src="images/GOOGLE CHROME.png">
+    <img src="images/Legends.png" width= 200>
+    <img src="images/GOOGLE CHROME.png" width = 600>
     </p>
  <p>
