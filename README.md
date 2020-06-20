@@ -6,7 +6,7 @@
 Please see an example of the user interface below:
 (Note: this is just UI example, the machine learning has not been applied to these review )
  <p>
-    <img src="images/Legends.png" width=200>
-    <img src="images/GOOGLE CHROME.png" width = 800>
+    <img src="images/Legends.png" width=250>
+    <img src="images/GOOGLE CHROME.png">
     </p>
 
