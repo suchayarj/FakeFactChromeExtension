@@ -6,6 +6,6 @@
 Please see an example of the user interface below:
  <p>
     <img src="images/Legends.png" width=180>
-    <img src="images/GOOGLE CHROME.png" width = 1000>
+    <img src="images/GOOGLE CHROME.png" width = 800>
     </p>
 
